@@ -112,7 +112,7 @@ Uitgevoerd: mijn reflectie toegevoed.
 
 ---
 Datum: 03-03-2021
-Leerling: Amir Poljak
+Leerling: Amir Poljak, Daan Nieuweboer, Kars Hofstra
 Uitgevoerd: Bouwen van de knikkerbaan 
 
 
